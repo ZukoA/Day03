@@ -1,9 +1,9 @@
 function main() {
     // Only change code below this line
     var x = 10;
-     x = y;
+    var y = x;
     // Only change code below this line
-    return [x,y];
+    return [x, y];
 }
 
 console.log(main());
