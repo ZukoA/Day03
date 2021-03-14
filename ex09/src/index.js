@@ -1,9 +1,9 @@
 function main(numOne, numTwo) {
-    // Only change code below this line
+    
     var difference;
-    sum = numOne - numTwo;
+    difference = numOne - numTwo;
 
-    // Only change code below this line
+    
     return difference;
 }
 
